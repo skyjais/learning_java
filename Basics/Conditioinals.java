@@ -17,7 +17,7 @@ public class Conditioinals{
         //     tax =  (int) (income * 0.3);
         // }
 
-        System.out.println("Tax amount is " + num );
+     //   System.out.println("Tax amount is " + num );
     }
 }
 
