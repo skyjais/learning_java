@@ -8,7 +8,7 @@ public class Reverse {
         int end = arr.length-1;
         int swap;
 
-        while(start<=end){
+        while(start<end){
 
             swap=arr[start];
             arr[start]=arr[end];
